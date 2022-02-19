@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 Email - amankr30aeccse@gmail.com
-https://www.facebook.com/amandhvani
-https://twitter.com/amankumar79
 https://auth.geeksforgeeks.org/user/amankr30aeccse/profile
-https://www.hackerrank.com/amankumar79
 https://www.codechef.com/users/amankumar79
 https://leetcode.com/amankumar79/
 
