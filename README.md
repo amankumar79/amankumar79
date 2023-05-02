@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amankumar79
-- 👀 I’m interested in WEB DEVELOPMENT and MACHINE LEARNING
 - 🌱 I’m currently learning FRONT-END WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 Email - amankr30aeccse@gmail.com
 
